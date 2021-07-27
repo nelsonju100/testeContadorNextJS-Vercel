@@ -1,0 +1,13 @@
+git clone
+
+npm init -y   cria package.json
+
+npm install next react react-dom   
+
+*adiciona script no package.json   "dev":"next dev"
+
+npm run dev
+
+git add -A
+git commit -m 'descrição'
+git push origin main
